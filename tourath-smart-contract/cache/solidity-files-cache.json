@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\TwitterStore\\Desktop\\tourath-pilot\\tourath-smart-contract\\contracts\\TourathAuth.sol": {
+      "lastModificationDate": 1740183000135,
+      "contentHash": "2d39a9b0b5b2e16500106a03f88e06da",
+      "sourceName": "contracts/TourathAuth.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "TourathAuth"
+      ]
+    }
+  }
+}
